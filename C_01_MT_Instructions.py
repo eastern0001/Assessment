@@ -25,7 +25,7 @@ Then choose how many rounds you'd like to play <enter> for
 infinite mode.
 
 Your goal is to correctly answer the Equations without 
-running out of attempts.
+running out of attempts, if you ever want to stop please enter <xxx>
 
  Good luck.   
 
